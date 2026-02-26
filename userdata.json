@@ -55,5 +55,9 @@
         "key": "Shefat",
         "expirydate": "27-02-2026",
         "Allowoffline": true
-    }
+    },
+    {   "device_id": "65091efe472677d1",
+        "key": "trail78",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true}
 ]
