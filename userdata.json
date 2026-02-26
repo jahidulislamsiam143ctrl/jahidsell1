@@ -1,0 +1,32 @@
+[
+    {
+        "device_id": "72a25132d3e39c01",
+        "key": "@Genetxu1",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8c2d46af00345a87",
+        "key": "rafi",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "15f42d95a3c09b9d",
+        "key": "shawn",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5604a98cf8c5a0b3",
+        "key": "miktad",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "0b43787de2239d39",
+        "key": "mazid",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    }
+]
