@@ -32,5 +32,16 @@
     {   "device_id": "f01dd7b35fdf6acf",
         "key": "milon",
         "expirydate": "29-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "a6e1f860fc543df6",
+        "key": "Babor",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "2566f826c85c2bd3",
+        "key": "sabbir",
+        "expirydate": "29-02-2026",
         "Allowoffline": true}
 ]
