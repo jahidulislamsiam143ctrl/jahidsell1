@@ -44,5 +44,16 @@
         "key": "sabbir",
         "expirydate": "29-02-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d82ae760c2a26e0a",
+        "key": "609828",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "1ec7cd5c9e5bfa47",
+        "key": "Shefat",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
     }
 ]
