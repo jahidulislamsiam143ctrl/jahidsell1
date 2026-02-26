@@ -28,5 +28,9 @@
         "key": "mazid",
         "expirydate": "28-02-2026",
         "Allowoffline": true
-    }
+    },
+    {   "device_id": "f01dd7b35fdf6acf",
+        "key": "milon",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true}
 ]
