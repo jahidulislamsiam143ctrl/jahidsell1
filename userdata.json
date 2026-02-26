@@ -64,30 +64,30 @@
     {
         "device_id": "ac16055cb4f2e00a",
         "key": "trail79",
-        "expirydate": "28-02-2026",
+        "expirydate": "27-02-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "bbb9ff63d81ea09c",
-        "key": "trail89",
-        "expirydate": "28-02-2026",
+        "device_id": "3695b8adf3c40ded",
+        "key": "piash",
+        "expirydate": "27-02-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "111111111111111",
-        "key": "miktad",
-        "expirydate": "28-02-2026",
+        "device_id": "f84a81e97e9b83d6",
+        "key": "emon",
+        "expirydate": "27-02-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "11111111111111",
-        "key": "11111",
-        "expirydate": "28-02-2026",
+        "device_id": "3515ba0859620b64",
+        "key": "ramim",
+        "expirydate": "27-02-2026",
         "Allowoffline": true
     },
-    {   "device_id": "111111111111111111",
-        "key": "111111",
-        "expirydate": "29-02-2026",
+    {   "device_id": "e9f2f868a2fc12e1",
+        "key": "shahed",
+        "expirydate": "27-02-2026",
         "Allowoffline": true
     } ,
     {
