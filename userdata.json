@@ -59,5 +59,117 @@
     {   "device_id": "65091efe472677d1",
         "key": "trail78",
         "expirydate": "27-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "11111111111111",
+        "key": "1111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111",
+        "key": "1111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "111111111111111",
+        "key": "miktad",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111",
+        "key": "11111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "111111111111111111",
+        "key": "111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "111111111111111111111",
+        "key": "11111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "1111111111111111",
+        "key": "111111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111111",
+        "key": "1111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "11111111111111",
+        "key": "111111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "111111111111111",
+        "key": "1111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "11111111111111",
+        "key": "11111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111",
+        "key": "11111111111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "111111111111111",
+        "key": "1111111111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111",
+        "key": "111111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "111111111111111111",
+        "key": "111111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "111111111111111111111",
+        "key": "11111111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "1111111111111111",
+        "key": "11111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111111",
+        "key": "11111111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "11111111111111",
+        "key": "111111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "111111111111111",
+        "key": "1111111111",
+        "expirydate": "27-02-2026",
         "Allowoffline": true}
 ]
