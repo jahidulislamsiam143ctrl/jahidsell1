@@ -98,18 +98,18 @@
     },
     {   "device_id": "2c5c43f9f6f50179",
         "key": "ceo30",
-        "expirydate": "30-02-2026",
+        "expirydate": "02-03-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "25c18a8d8e68108b",
+        "device_id": "11111111",
         "key": "11",
         "expirydate": "30-02-2026",
         "Allowoffline": true
     },
-    {   "device_id": "11111111111111",
-        "key": "111111111",
-        "expirydate": "27-02-2026",
+    {   "device_id": "25c18a8d8e68108b",
+        "key": "Genetxu1",
+        "expirydate": "02-03-2026",
         "Allowoffline": true
     },
     {   "device_id": "111111111111111",
