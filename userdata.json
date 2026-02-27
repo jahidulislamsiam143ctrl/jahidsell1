@@ -24,8 +24,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "0b43787de2239d39",
-        "key": "mazid2",
+        "device_id": "22222",
+        "key": "22222",
         "expirydate": "02-03-2026",
         "Allowoffline": true
     },
@@ -107,7 +107,7 @@
         "expirydate": "30-02-2026",
         "Allowoffline": true
     },
-    {   "device_id": "25c18a8d8e68108b",
+    {   "device_id": "0b43787de2239d39",
         "key": "Genetxu1",
         "expirydate": "02-03-2026",
         "Allowoffline": true
