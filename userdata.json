@@ -56,14 +56,14 @@
         "expirydate": "27-02-2026",
         "Allowoffline": true
     },
-    {   "device_id": "65091efe472677d1",
-        "key": "trail78",
+    {   "device_id": "111111111111",
+        "key": "1111111",
         "expirydate": "27-02-2026",
         "Allowoffline": true
     } ,
     {
-        "device_id": "ac16055cb4f2e00a",
-        "key": "trail79",
+        "device_id": "111111",
+        "key": "111111",
         "expirydate": "27-02-2026",
         "Allowoffline": true
     },
@@ -111,65 +111,5 @@
         "key": "Genetxu1",
         "expirydate": "02-03-2026",
         "Allowoffline": true
-    },
-    {   "device_id": "111111111111111",
-        "key": "1111111",
-        "expirydate": "27-02-2026",
-        "Allowoffline": true
-    } ,
-    {
-        "device_id": "11111111111111",
-        "key": "11111",
-        "expirydate": "28-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "11111111111111",
-        "key": "11111111111",
-        "expirydate": "28-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "111111111111111",
-        "key": "1111111111",
-        "expirydate": "28-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "11111111111111",
-        "key": "111111",
-        "expirydate": "28-02-2026",
-        "Allowoffline": true
-    },
-    {   "device_id": "111111111111111111",
-        "key": "111111111",
-        "expirydate": "29-02-2026",
-        "Allowoffline": true
-    } ,
-    {
-        "device_id": "111111111111111111111",
-        "key": "11111111111",
-        "expirydate": "29-02-2026",
-        "Allowoffline": true
-    },
-    {   "device_id": "1111111111111111",
-        "key": "11111111",
-        "expirydate": "29-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "11111111111111111",
-        "key": "11111111111",
-        "expirydate": "27-02-2026",
-        "Allowoffline": true
-    },
-    {   "device_id": "11111111111111",
-        "key": "111111111",
-        "expirydate": "27-02-2026",
-        "Allowoffline": true
-    },
-    {   "device_id": "111111111111111",
-        "key": "1111111111",
-        "expirydate": "27-02-2026",
-        "Allowoffline": true}
+    }
 ]
