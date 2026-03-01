@@ -31,18 +31,18 @@
     },
     {   "device_id": "f01dd7b35fdf6acf",
         "key": "milon",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     } ,
     {
         "device_id": "a6e1f860fc543df6",
         "key": "Babor",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     },
     {   "device_id": "2566f826c85c2bd3",
         "key": "sabbir",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     },
     {
@@ -70,30 +70,30 @@
     {
         "device_id": "3695b8adf3c40ded",
         "key": "piash",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     },
     {
         "device_id": "f84a81e97e9b83d6",
         "key": "emon",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     },
     {
         "device_id": "3515ba0859620b64",
         "key": "ramim",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     },
     {   "device_id": "e9f2f868a2fc12e1",
         "key": "shahed",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     } ,
     {
         "device_id": "05d730f71a24541d",
         "key": "maruf",
-        "expirydate": "29-02-2026",
+        "expirydate": "04-03-2026",
         "Allowoffline": true
     },
     {   "device_id": "2c5c43f9f6f50179",
@@ -102,7 +102,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "60e14f539fe9874d",
+        "device_id": "1111111111",
         "key": "naim",
         "expirydate": "04-03-2026",
         "Allowoffline": true
